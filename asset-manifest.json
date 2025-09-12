@@ -1,5 +1,6 @@
 {
   "files": {
+<<<<<<< HEAD
     "main.css": "./static/css/main.a0ffb378.css",
     "main.js": "./static/js/main.f5dc7b10.js",
     "static/js/787.47e3f016.chunk.js": "./static/js/787.47e3f016.chunk.js",
@@ -16,5 +17,23 @@
   "entrypoints": [
     "static/css/main.a0ffb378.css",
     "static/js/main.f5dc7b10.js"
+=======
+    "main.css": "/QR-Code-Generator-and-Scanner/static/css/main.a0ffb378.css",
+    "main.js": "/QR-Code-Generator-and-Scanner/static/js/main.6b80c4b8.js",
+    "static/js/787.47e3f016.chunk.js": "/QR-Code-Generator-and-Scanner/static/js/787.47e3f016.chunk.js",
+    "static/media/bg3.jpg": "/QR-Code-Generator-and-Scanner/static/media/bg3.684c8ef4ad8520172696.jpg",
+    "static/media/logo2.png": "/QR-Code-Generator-and-Scanner/static/media/logo2.b63d12d67c0be799f7c5.png",
+    "static/media/scan.png": "/QR-Code-Generator-and-Scanner/static/media/scan.d888b7df5d8defb25080.png",
+    "static/media/logo.png": "/QR-Code-Generator-and-Scanner/static/media/logo.c88cc34fb2ae1d37e346.png",
+    "static/media/gen.webp": "/QR-Code-Generator-and-Scanner/static/media/gen.e2b6a7476e0e7c0c43e0.webp",
+    "index.html": "/QR-Code-Generator-and-Scanner/index.html",
+    "main.a0ffb378.css.map": "/QR-Code-Generator-and-Scanner/static/css/main.a0ffb378.css.map",
+    "main.6b80c4b8.js.map": "/QR-Code-Generator-and-Scanner/static/js/main.6b80c4b8.js.map",
+    "787.47e3f016.chunk.js.map": "/QR-Code-Generator-and-Scanner/static/js/787.47e3f016.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a0ffb378.css",
+    "static/js/main.6b80c4b8.js"
+>>>>>>> e7dda86094ba8d048a9c7f3b86a76df5d02e419f
   ]
 }
